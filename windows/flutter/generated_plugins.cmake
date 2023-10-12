@@ -5,6 +5,7 @@
 list(APPEND FLUTTER_PLUGIN_LIST
   audioplayers_windows
   firebase_core
+  geolocator_windows
   rive_common
 )
 
